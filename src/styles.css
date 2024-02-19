@@ -5,8 +5,17 @@
     border: 0;
     box-sizing: border-box;
     color: antiquewhite;
+   
+    
 }
 
 body{
-    background-color: #1f1147;
+    background-image: url(assets/imgs/38d5884062d3aa7e24a02e513dfe07be-gpLarge.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
 }
+
+    
